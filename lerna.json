@@ -7,10 +7,5 @@
   "stream": true,
   "bootstrap": {
     "npmClientArgs": ["--no-package-lock"]
-  },
-  "command": {
-    "publish": {
-      "registry": "https://gitlab.com/api/v4/projects/23460397/packages/npm/"
-    }
   }
 }

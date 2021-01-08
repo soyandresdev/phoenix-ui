@@ -21,16 +21,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/soyandresdev/phoenix-ui.git"
+    "url": "git@github.com:soyandresdev/phoenix-ui.git"
   },
   "scripts": {
     "build": "phoenix-builder",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://gitlab.com/soyandresdev/phoenix-ui/issues"
+    "url": "https://github.com/soyandresdev/phoenix-ui/issues"
   },
-  "homepage": "https://gitlab.com/soyandresdev/phoenix-ui#readme",
+  "homepage": "https://github.com/soyandresdev/phoenix-ui#readme",
   "devDependencies": {
     "@soyandresdev/phoenix-builder": "^1.0.1"
   },
@@ -40,5 +40,5 @@
     "react-helmet": "^6.1.0",
     "styled-components": "^5.2.1"
   },
-  "gitHead": "7ecb09a9c24a22ca012b8839f8b39057ef4e7ea0"
+  "gitHead": "f1258f03a4d7e46d787c1a694f3c6ed3b37ddd14"
 }

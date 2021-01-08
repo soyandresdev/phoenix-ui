@@ -7,5 +7,13 @@
   "stream": true,
   "bootstrap": {
     "npmClientArgs": ["--no-package-lock"]
+  },
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "message": "chore(release): publish",
+      "registry": "https://npm.pkg.github.com",
+      "allowBranch": "master"
+    }
   }
 }

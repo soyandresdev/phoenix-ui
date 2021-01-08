@@ -1,20 +1,20 @@
 
 
 - Create the Lerna module
-`lerna create @trackeer/phoenix-button --yes`
+`lerna create @soyandresdev/phoenix-button --yes`
 - Link lerna module to primary
-`lerna add @trackeer/phoenix-button --scope=@trackeer/phoenix`
+`lerna add @soyandresdev/phoenix-button --scope=@soyandresdev/phoenix`
 - Link lerna module to build
-`lerna add rollup --scope=@trackeer/phoenix-builder`
+`lerna add rollup --scope=@soyandresdev/phoenix-builder`
 - Install dependenci for lerna module
-`lerna add react --dev --scope '{@trackeer/phoenix-button,@trackeer/phoenix-text}'`
+`lerna add react --dev --scope '{@soyandresdev/phoenix-button,@soyandresdev/phoenix-text}'`
 - Add Build to Module
-`lerna add @trackeer/phoenix-builder --dev --scope '{@trackeer/phoenix,@trackeer/phoenix-button,@trackeer/phoenix-text}'`
+`lerna add @soyandresdev/phoenix-builder --dev --scope '{@soyandresdev/phoenix,@soyandresdev/phoenix-button,@soyandresdev/phoenix-text}'`
 
-lerna add react --dev --scope '{@trackeer/phoenix-button,@trackeer/phoenix-text}'
+lerna add react --dev --scope '{@soyandresdev/phoenix-button,@soyandresdev/phoenix-text}'
 
 
-lerna add @trackeer/phoenix-builder --dev --scope '{@trackeer/phoenix,@trackeer/phoenix-button,@trackeer/phoenix-theme}'
+lerna add @soyandresdev/phoenix-builder --dev --scope '{@soyandresdev/phoenix,@soyandresdev/phoenix-button,@soyandresdev/phoenix-theme}'
 
 Bug
 - Fixed Module export warning : https://g.yuque.com/zhangbao/weekly/day-124?language=en-us

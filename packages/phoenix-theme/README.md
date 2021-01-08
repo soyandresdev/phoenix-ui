@@ -1,11 +1,11 @@
-# `@trackeer/phoenix-theme`
+# `@soyandresdev/phoenix-theme`
 
 > TODO: description
 
 ## Usage
 
 ```
-const phoenixTheme = require('@trackeer/phoenix-theme');
+const phoenixTheme = require('@soyandresdev/phoenix-theme');
 
 // TODO: DEMONSTRATE API
 ```

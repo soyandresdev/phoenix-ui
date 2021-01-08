@@ -1,11 +1,11 @@
-# `@trackeer/phoenix-button`
+# `@soyandresdev/phoenix-button`
 
 > TODO: description
 
 ## Usage
 
 ```
-const phoenixButton = require('@trackeer/phoenix-button');
+const phoenixButton = require('@soyandresdev/phoenix-button');
 
 // TODO: DEMONSTRATE API
 ```

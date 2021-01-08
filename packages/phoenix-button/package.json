@@ -1,5 +1,5 @@
 {
-  "name": "@trackeer/phoenix-button",
+  "name": "@soyandresdev/phoenix-button",
   "version": "1.0.4",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "devDependencies": {
-    "@trackeer/phoenix-builder": "^1.0.1"
+    "@soyandresdev/phoenix-builder": "^1.0.1"
   },
   "dependencies": {
     "prop-types": "^15.7.2",

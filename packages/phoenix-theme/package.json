@@ -1,5 +1,5 @@
 {
-  "name": "@trackeer/phoenix-theme",
+  "name": "@soyandresdev/phoenix-theme",
   "version": "1.0.4",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -21,18 +21,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/trackeer/phoenix-ui.git"
+    "url": "git+ssh://git@gitlab.com/soyandresdev/phoenix-ui.git"
   },
   "scripts": {
     "build": "phoenix-builder",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://gitlab.com/trackeer/phoenix-ui/issues"
+    "url": "https://gitlab.com/soyandresdev/phoenix-ui/issues"
   },
-  "homepage": "https://gitlab.com/trackeer/phoenix-ui#readme",
+  "homepage": "https://gitlab.com/soyandresdev/phoenix-ui#readme",
   "devDependencies": {
-    "@trackeer/phoenix-builder": "^1.0.1"
+    "@soyandresdev/phoenix-builder": "^1.0.1"
   },
   "dependencies": {
     "prop-types": "^15.7.2",

@@ -2,6 +2,6 @@
 
 const phoenixTheme = require('..');
 
-describe('@trackeer/phoenix-theme', () => {
+describe('@soyandresdev/phoenix-theme', () => {
     it('needs tests');
 });

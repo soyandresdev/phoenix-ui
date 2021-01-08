@@ -2,6 +2,6 @@
 
 const phoenixBuilder = require('..');
 
-describe('@trackeer/phoenix-builder', () => {
+describe('@soyandresdev/phoenix-builder', () => {
     it('needs tests');
 });
